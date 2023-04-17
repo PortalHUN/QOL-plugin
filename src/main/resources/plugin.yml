@@ -1,0 +1,12 @@
+name: QOL
+version: '${project.version}'
+main: com.portalhun.qol.QOL
+api-version: 1.19
+authors: [PortalHUN]
+description: QOL improvements
+website: portalhun.com
+commands:
+  setspawn:
+    description: Sets spawn location
+  spawn:
+    description: Teleports to spawn location
